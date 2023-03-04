@@ -4,4 +4,4 @@ url = "https://news.naver.com/"
 
 webpage = req.get(url, verify=False)
 print(webpage.text)
-print('test')
+print('test2')
